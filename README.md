@@ -1,6 +1,6 @@
 # 👋 Ciao! Sono Peppe, Junior Developer!
 
-Sono un appassionato di programmazione e sviluppo software, sempre desideroso di imparare e mettere in pratica nuove tecnologie. Benvenuto/a nel mio spazio GitHub!
+Sono un appassionato di programmazione e sviluppo software, sempre desideroso di imparare e mettere in pratica nuove tecnologie. Benvenuto nel mio spazio GitHub!
 
 ---
 
@@ -34,11 +34,3 @@ Attualmente, sto lavorando per **approfondire le mie conoscenze base** ed espand
     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
   </a>
 </p>
-
----
-
-## 🌟 Il Progetto in Evidenza: Fanta-Azienda
-
-Il progetto di cui vado più fiero è **Fanta-Azienda**, sviluppato in collaborazione con altri due ragazzi durante un corso.
-
-**L'Idea:** abbiamo ricreato il Fanta-Sanremo su scala aziendale con le conoscenze fornite dal corso, unendo backend (Node.js) e Front-end (React)
