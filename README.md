@@ -4,9 +4,9 @@ Sono un appassionato di programmazione e sviluppo software, sempre desideroso di
 
 ---
 
-## 🛠️ Stack Tecnologico e Competenze
+## 💻 Linguaggi conosciuti
 
-Qui di seguito sono elencati i linguaggi e le tecnologie con cui ho acquisito una conoscenza base. Clicca sull'icona per saperne di più su ciascuna di esse!
+Attualmente, sto lavorando per **approfondire le mie conoscenze base** ed espandere le mie competenze, specialmente nell'ambito dell'AI e del Machine Learning. In particolare, sto studiando concetti avanzati come la **Retrieval-Augmented Generation (RAG)** e gli **Embeddings**.
 
 <p align="left">
   <a href="https://it.wikipedia.org/wiki/C_(linguaggio)">
