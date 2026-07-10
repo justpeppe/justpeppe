@@ -1,7 +1,7 @@
 # Giuseppe Trimarchi
 
 Studente di Ingegneria Elettronica ed Informatica & Junior Software Engineer.
-Competenze di base nello sviluppo web (React, Node.js) e nell'integrazione di modelli AI locali.
+Competenze di base nello sviluppo web (React, Node.js) e nell'utilizzo di modelli AI e strumenti di sviluppo assistiti da AI.
 
 ---
 
