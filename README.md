@@ -45,5 +45,5 @@ Competenze di base nello sviluppo web (React, Node.js) e nell'integrazione di mo
 * **[La Ruota della Fortuna](https://github.com/justpeppe/ruota-della-fortuna-frontend)**
   Sviluppo autonomo lato frontend di un'applicazione web interattiva in React. Gestione dinamica del tabellone di gioco, animazioni e suoni client-side senza database o backend di appoggio.
 
-* **[FantAzienda](https://github.com/justpeppe/FantAzienda)**
+* **[FantAzienda](https://github.com/justpeppe/Progetto-Fanta)**
   Applicazione web in team ispirata al FantaSanremo per contesti aziendali. Stack composto da React, Node.js e PostgreSQL. Collaborazione tramite Git (branching e merge) e integrazione dei servizi backend.
